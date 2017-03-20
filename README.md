@@ -10,7 +10,7 @@ Java
 # Description
 Developed a program to add and modify schema of SQL queries and procedures.
 
-# Lisence
+# License
 
 The software has been placed in the public domain. This means that you are free to use it however you like.
 The author takes no responsibility or liability of any kind for any use that you may make of this code.
