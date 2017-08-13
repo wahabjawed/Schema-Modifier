@@ -1,17 +1,43 @@
 # SchemaModifier
 Publish Repository
 
-# Technology:
-Netbeans
+## Description
+Developed a program to add and modify schema of SQL queries and procedures. It works for batch files as well.
 
-# Language
-Java
+## Issues
 
-# Description
-Developed a program to add and modify schema of SQL queries and procedures.
+You can report the bugs at the [issue tracker](https://github.com/wahabjawed/Schema-Modifier/issues)
 
-# License
+**OR**
 
-The software has been placed in the public domain. This means that you are free to use it however you like.
-The author takes no responsibility or liability of any kind for any use that you may make of this code.
-If the code screws up your SQL Files, you got it for free, so you should have tested it better - it's your responsibility.
+You can [message me](https://www.facebook.com/wahab.jawed) if you can't get it to work. In fact, you should message me anyway.
+
+## Contributing
+
+This game was written to automate a process of changing schema of the table, views and etc in the quesries and procedures.
+
+For making contribution:
+
+1. Fork it
+2. Clone it
+
+```
+    git clone https://github.com/wahabjawed/Schema-Modifier.git
+    cd Schema-Modifier
+```
+
+use preferably netbeans to open the project
+
+### Contributers
+
+- [@wahabjawed](https://github.com/wahabjawed/)   [visit website](http://wahabjawed.avialdo.com)
+
+## License
+
+[[Back to top]](https://github.com/wahabjawed/Space-Shooter-Game#index)
+
+Built with ♥ by [Wahab Jawed](http://wahabjawed.avialdo.com)[(@wahabjawed)](https://www.facebook.com/wahab.jawed) under [MIT License](http://wahabjawed.mit-license.org)
+
+This is free software, and may be redistributed under the terms specified in the LICENSE file.
+
+You can find a copy of the License at http://wahabjawed.mit-license.org/
